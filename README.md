@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Live Demo: https://ecstatic-franklin-6d957f.netlify.com/
 
+google-site-verification: google70b3ec62f1842170.html
+
+
 ## Available Scripts
 
 In the project directory, you can run:
